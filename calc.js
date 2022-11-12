@@ -34,6 +34,9 @@ reader.question("What would you like to calculate?", function(input){
 		console.log(Math.sqrt(num1))
 	}
 
+	//Square root symbol is "Opt v"
+	// Use prefix notation (ex. + 3 2)
+	// In terminal use "node calc.js" to run code
 
 	// This line closes the connection to the command line interface.
 	reader.close()
